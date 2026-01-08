@@ -1,0 +1,5 @@
+APscheduler
+colorama
+pyfiglet
+python-dotenv
+requests
